@@ -33,7 +33,7 @@ svg{
 body{
   font-family: "League Spartan", sans-serif;
   font-size: 12px;
-  background-color: var(--Black);
+  background-color: var(--White);
 }
 main{
   min-height: 100vh;
@@ -112,7 +112,6 @@ li{
 .container{ 
   position: absolute;
   overflow: hidden;
-  background-color: var(--White);
 }
 article{
   display: flex;
