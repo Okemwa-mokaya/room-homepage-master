@@ -33,7 +33,8 @@ svg{
 body{
   font-family: "League Spartan", sans-serif;
   font-size: 12px;
-  background-color: var(--White);
+  background-color: var(--Black);
+  min-height: 100vh;
 }
 main{
   min-height: 100vh;
@@ -210,6 +211,7 @@ h3{
   }
   .image2 img,.image3 img,.slider,.image-container img{
     width: 100%;
+    height: 100%
   }
 }
 @media (min-width: 974px) {
