@@ -112,6 +112,7 @@ li{
 .container{ 
   position: absolute;
   overflow: hidden;
+  background-color: var(--White);
 }
 article{
   display: flex;
