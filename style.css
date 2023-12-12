@@ -113,7 +113,6 @@ li{
 }
 .container{ 
   position: absolute;
-  background-color: var(--White);
 }
 article{
   display: flex;
