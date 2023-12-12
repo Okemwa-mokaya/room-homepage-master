@@ -114,8 +114,6 @@ li{
 .container{ 
   position: absolute;
   background-color: var(--White);
-  height: 100%;
-  width: 100%;
 }
 article{
   display: flex;
